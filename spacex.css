@@ -1,0 +1,252 @@
+*
+{
+    margin:0;
+    padding: 0;
+    
+}
+
+body
+{
+    color:black;
+}
+
+/* header */
+/* {
+    width:100%;
+    height:100vh;
+    background-image: url(Intelsat40e_causeway_DSC_0385_desktop_f2530f7f25.jpg) ;
+    background-size: cover;
+    background-position: center;
+} */
+
+.logo img
+{
+    width: 210px;
+    height: 35px;
+    padding-top:32px;
+    padding-left:110px;
+}
+
+.nav_items
+{
+    padding-bottom: 50px;
+    padding-top:42px;
+    padding-left:37px;
+}
+
+.nav_items :hover
+{
+    text-decoration: underline;
+}
+
+
+.nav_items a
+{
+    margin-bottom:50px;
+    text-decoration: none;
+    color: white;
+    font-family: D-DIN-Regular, Arial, Verdana, sans-serifk;
+    /* float:right; */
+    padding-right: 20px;
+    
+}
+ nav
+ {
+    display: flex;
+    /* justify-content: space-between; */
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+ }
+
+ .abc
+ {
+    margin-bottom:50px;
+    text-decoration: none;
+    color: white;
+    font-family: Arial, Verdana, sans-serifk;
+    /* float:right; */
+    padding-right: 20px;
+    
+ }
+
+ .nav_item_r :hover
+ {
+    text-decoration: underline;
+ }
+
+ .nav_item_r
+ {
+    padding-top:42px;
+    padding-left:240px;
+ }
+
+ .nav_item_r a img
+ {
+    width:50px;
+    padding-right:15px;
+    padding-top:5px;
+    height: 11px;
+    
+ }
+
+
+ .sec1main {
+    width:100%;
+    height:100vh;
+    background-image: url(Intelsat40e_causeway_DSC_0385_desktop_f2530f7f25.jpg) ;
+    background-size: cover;
+    background-position: center;
+}
+
+.header-text1{
+    margin-left: 10%;
+    padding-top: 25%;
+}
+
+.header-text1 h2{
+    font-family:  Arial, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: lighter;
+    color: white;
+}
+
+.header-text1 h1{
+    font-family:  Arial, Verdana, sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+}
+
+/* .button3
+{
+    margin-top: 30px;
+    background-color: transparent;
+    color: white;
+    padding: 10px 24px;
+    border: 2px solid white;
+}
+
+.button3:hover
+{
+    background-color: white;
+    color: black;
+} */
+
+.sec2
+{
+    margin-top: 75px;
+    width:100%;
+    height:100vh;
+    background-image: url(S20_Chopstick_Stack_Desktop_0c016b49ec.webp) ;
+    background-size: cover;
+    background-position: center;
+}
+
+.section-text2 
+{
+    margin-left: 10%;
+    padding-top: 25%; 
+}
+
+.section-text2 h1
+{
+    font-family:  Arial, Verdana, sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+}
+
+/* .button4
+{
+    margin-top: 30px;
+    background-color: transparent;
+    color: white;
+    padding: 10px 24px;
+    border: 2px solid white;
+}
+
+.button4:hover
+{
+    background-color: white;
+    color: black;
+} */
+
+.sec3
+{
+    width:100%;
+    height:100vh;
+    background-image: url(Homepage_Desktop_5ebdeb0c6c.webp) ;
+    background-size: cover;
+    background-position: center;
+}
+
+.section-text3
+{
+    margin-left: 10%;
+    padding-top: 20%; 
+}
+
+.section-text3 h1
+{
+    font-family:   Arial, Verdana, sans-serif;
+    font-size: 48px;
+    font-weight: bold;
+    color: white;
+}
+
+.button
+{
+    margin-top: 30px;
+    background-color: transparent;
+    color: white;
+    padding: 10px 24px;
+    border: 2px solid white;
+}
+
+.button:hover
+{
+    background-color: white;
+    color: black;
+}
+
+.footer
+{
+    width:100%;
+    height: 120px;
+    background-color: black;
+}
+
+.row
+{
+    display:flex;
+    text-align: center;
+    padding:50px;
+    float:left;
+    margin-left: 375px;
+}
+
+.spacex{
+    font-family:Arial, Verdana, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    color: gray;
+}
+
+.row a
+{
+    font-family:Arial, Verdana, sans-serif;
+    font-size: 12px;
+    font-weight: bold;
+    text-decoration: none;
+    color: white;
+    padding-left:20px;
+}
+
+.row a:hover
+{
+    color: gray;
+}
+
+
+
